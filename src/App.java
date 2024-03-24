@@ -10,7 +10,7 @@ public class App {
     private Boolean rain;
 
 
-    private String apiKey = "API";
+    private String apiKey = "WBE63Apn4bVmh1NxOI3J7CA6QsVGWwVK";
     private String accUrl = "http://dataservice.accuweather.com/currentconditions/v1/";
 
     private String uid;
@@ -74,6 +74,7 @@ public class App {
             connection.disconnect();
         } catch (IOException e) {
             e.printStackTrace();
+
         }
         return uid;
     }
