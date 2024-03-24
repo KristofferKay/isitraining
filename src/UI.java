@@ -21,7 +21,7 @@ public class UI {
 
         app.isItRainingInCity();
         if (true) {
-            System.out.println("Det regner."
+            System.out.println("Det regner.");
         } else if (false) {
             System.out.println("Det regner ikke, endnu");
         }
