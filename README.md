@@ -1,10 +1,10 @@
-# Small API project
+# API project, Java
 
-#### Description of your project
+#### Description of my project
 As i am learning Java in my CS studies, I wanted to learn how to impliment a API i a console app with Java. The idea was to create a simple app, that takes the input city, checks it up against a API, in this case via AccuWeather and returns if its raining or not. It was a awesome learning experience. 
 ## Built With
-Java
-AccuWeather API
+- Java
+- AccuWeather API
 
 
 #### Pull request
