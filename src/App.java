@@ -9,7 +9,7 @@ public class App {
 
     private Boolean rain;
 
-    private String apiKey = "ADy9EdpSA2XTG2EjizyynG8AdfHCIzmg";
+    private String apiKey = "ADD_API";
     private String accUrl = "http://dataservice.accuweather.com/currentconditions/v1/";
 
     private String uid;
